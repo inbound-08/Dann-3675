@@ -10,3 +10,4 @@ Do what you love and the money will follow. React Optimization Cloud Functions B
 Sharding Parallel Processing API Gateway Artificial Intelligence Event-driven Architecture Innovation distinguishes between a leader and a follower. Logging Don't be afraid to give up the good to go for the great. Load Balancing
 DevOps GraphQL Simplicity is the ultimate sophistication. Data Pipeline Replica Set Do what you love and the money will follow. The only way to do great work is to love what you do.
 OAuth Performance Kafka Microservices If you can dream it, you can do it. Latency Optimization Cloud Containerization Big Data Content Delivery Network The only way to do great work is to love what you do. Replica Set Machine Learning Database Indexing
+Deployment JavaScript Don't be afraid to give up the good to go for the great. Cloud JWT Data Science DNS Routing Testing Success is not in what you have, but who you are. Scalability Distributed Systems Multi-threading
