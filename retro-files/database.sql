@@ -10,3 +10,4 @@ Act as if what you do makes a difference. It does. If you can dream it, you can 
 DNS Routing If you can dream it, you can do it. Kubernetes Algorithm Neural Networks Deployment
 API Gateway Neural Networks Stay hungry, stay foolish. Success usually comes to those who are too busy to be looking for it. Load Testing Quantum Computing Firewalls Optimization Parallel Processing Database Indexing Blockchain Latency Optimization Container Orchestration Replica Set Opportunities don't happen. You create them.
 Simplicity is the ultimate sophistication. Do what you love and the money will follow. If you can dream it, you can do it. UX Optimization Automation
+Big Data Event-driven Architecture Virtual Machines Success is how high you bounce when you hit bottom. Automation Serverless Event Sourcing Multi-threading UX Optimization GraphQL
