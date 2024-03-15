@@ -9,3 +9,4 @@ Kafka Blockchain GraphQL Difficult roads often lead to beautiful destinations. P
 UX Optimization Big Data Multi-threading JavaScript Do what you love and the money will follow. Content Delivery Network Kubernetes Replica Set Success doesn’t just find you. You have to go out and get it. Containerization Logging Automation Latency Optimization
 Frontend GraphQL Difficult roads often lead to beautiful destinations. Message Queue RabbitMQ Framework Code Review Cloud
 UX Optimization Artificial Intelligence GraphQL Performance Machine Learning
+Kubernetes Do what you love and the money will follow. Algorithm Version Control Event Sourcing GraphQL Deployment Cache Invalidation Distributed Systems Success is how high you bounce when you hit bottom.
