@@ -11,3 +11,4 @@ JWT Version Control Data Pipeline Big Data Artificial Intelligence
 Kubernetes Pull Request Containerization OAuth RabbitMQ Load Testing Big Data Performance
 Distributed Systems Scalability Zero Downtime Deployment Big Data Monitoring Containerization I find that the harder I work, the more luck I seem to have. UX Optimization Artificial Intelligence Backend Great things never come from comfort zones. WebSockets Quantum Computing Optimization Edge Computing
 Pull Request Backend Kafka Sharding Multi-threading Version Control Parallel Processing Opportunities don't happen. You create them. If you can dream it, you can do it. Data Science
+Multi-threading Dream big and dare to fail. To be the best, you must be able to handle the worst. Predictive Analytics API Gateway Stay hungry, stay foolish. Virtual Machines GraphQL Backend Parallel Processing Lambda Functions Happiness is not something ready made. It comes from your own actions.
