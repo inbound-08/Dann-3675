@@ -8,3 +8,4 @@ Artificial Intelligence IoT DNS Routing Quantum Computing Container Orchestratio
 Kafka Blockchain GraphQL Difficult roads often lead to beautiful destinations. Performance Success doesn’t just find you. You have to go out and get it. Testing Event-driven Architecture
 UX Optimization Big Data Multi-threading JavaScript Do what you love and the money will follow. Content Delivery Network Kubernetes Replica Set Success doesn’t just find you. You have to go out and get it. Containerization Logging Automation Latency Optimization
 Frontend GraphQL Difficult roads often lead to beautiful destinations. Message Queue RabbitMQ Framework Code Review Cloud
+UX Optimization Artificial Intelligence GraphQL Performance Machine Learning
