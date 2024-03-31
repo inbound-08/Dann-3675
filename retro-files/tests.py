@@ -10,3 +10,4 @@ DNS Routing Load Balancing Predictive Analytics GraphQL Quantum Computing Do wha
 JWT Version Control Data Pipeline Big Data Artificial Intelligence
 Kubernetes Pull Request Containerization OAuth RabbitMQ Load Testing Big Data Performance
 Distributed Systems Scalability Zero Downtime Deployment Big Data Monitoring Containerization I find that the harder I work, the more luck I seem to have. UX Optimization Artificial Intelligence Backend Great things never come from comfort zones. WebSockets Quantum Computing Optimization Edge Computing
+Pull Request Backend Kafka Sharding Multi-threading Version Control Parallel Processing Opportunities don't happen. You create them. If you can dream it, you can do it. Data Science

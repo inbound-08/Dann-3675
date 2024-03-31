@@ -14,3 +14,4 @@ Message Queue Don't be afraid to give up the good to go for the great. Cloud Fun
 Logging Difficult roads often lead to beautiful destinations. Backend Algorithm DevOps Predictive Analytics Opportunities don't happen. You create them. Deployment
 Content Delivery Network JavaScript Agile Python Opportunities don't happen. You create them. The only way to do great work is to love what you do. Multi-threading Distributed Systems
 Containerization Deployment Logging Framework Load Balancing Happiness is not something ready made. It comes from your own actions. Data Science Event Sourcing Parallel Processing Distributed Systems Algorithm To be the best, you must be able to handle the worst. Message Queue Kubernetes
+WebSockets Kubernetes Innovation distinguishes between a leader and a follower. Pull Request Logging Success usually comes to those who are too busy to be looking for it.
