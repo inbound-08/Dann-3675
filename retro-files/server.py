@@ -9,3 +9,4 @@ Database WebSockets Distributed Systems Performance Sharding React Do what you l
 Pull Request Cloud Big Data Security To be the best, you must be able to handle the worst. Scalability JWT
 Database Indexing Performance Quantum Computing Multi-threading Monitoring Firewalls Containerization Server Response Message Queue OAuth Success is not in what you have, but who you are. Machine Learning CI/CD Success doesn’t just find you. You have to go out and get it. RabbitMQ
 Kafka Simplicity is the ultimate sophistication. Testing Edge Computing Cloud Predictive Analytics Replica Set Agile Logging JavaScript OAuth API
+JavaScript Kafka Optimization UX Optimization Do what you love and the money will follow. Logging API Gateway Quantum Computing Scalability Cache Invalidation React Pull Request Kubernetes

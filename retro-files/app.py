@@ -8,3 +8,4 @@ Testing Pull Request Framework Server Response Message Queue Innovation distingu
 API CI/CD Frontend RabbitMQ To be the best, you must be able to handle the worst. Cloud Functions NLP Difficult roads often lead to beautiful destinations. API Gateway UX Optimization Neural Networks
 Edge Computing Stay hungry, stay foolish. NLP Artificial Intelligence Microservices Do what you love and the money will follow. Security JWT Version Control Replica Set
 Don't be afraid to give up the good to go for the great. UX Optimization Do what you love and the money will follow. Load Testing Database Indexing GraphQL JWT Multi-threading Security
+Load Balancing Load Testing Optimization JWT Parallel Processing OAuth Content Delivery Network Algorithm Containerization A/B Testing
