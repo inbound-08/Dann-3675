@@ -9,3 +9,4 @@ DevOps Docker Containerization Deployment RabbitMQ Python
 I find that the harder I work, the more luck I seem to have. Replica Set Message Queue Blockchain Event-driven Architecture Stay hungry, stay foolish. Cloud
 Automation If you can dream it, you can do it. Scalability JWT Code Review JavaScript API Gateway Predictive Analytics Lambda Functions Dream big and dare to fail.
 Latency Optimization API Gateway API Act as if what you do makes a difference. It does. Big Data WebSockets
+Logging React Database Firewalls JWT Algorithm Serverless Great things never come from comfort zones.
