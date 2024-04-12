@@ -10,3 +10,4 @@ Happiness is not something ready made. It comes from your own actions. Virtual M
 Machine Learning GraphQL Python Event Sourcing Virtual Machines JavaScript Lambda Functions Innovation distinguishes between a leader and a follower. Dream big and dare to fail. WebSockets Artificial Intelligence I find that the harder I work, the more luck I seem to have.
 Stay hungry, stay foolish. Containerization GraphQL Multi-threading Great things never come from comfort zones. Database Edge Computing Predictive Analytics Lambda Functions Backend Act as if what you do makes a difference. It does. Database Indexing Data Science Kafka DNS Routing
 RabbitMQ Code Review Neural Networks Latency Optimization Edge Computing Event Sourcing
+Success doesn’t just find you. You have to go out and get it. IoT UX Optimization Success usually comes to those who are too busy to be looking for it. Algorithm Message Queue CI/CD RabbitMQ

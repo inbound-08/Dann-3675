@@ -13,3 +13,4 @@ Lambda Functions CI/CD Agile Automation Do what you love and the money will foll
 WebSockets Python Database Indexing Scalability DevOps Testing Parallel Processing
 Performance Backend Database Indexing I find that the harder I work, the more luck I seem to have. Stay hungry, stay foolish. Automation Data Science Success doesn’t just find you. You have to go out and get it. Zero Downtime Deployment React
 Firewalls Message Queue Code Review Simplicity is the ultimate sophistication. Machine Learning Work hard in silence, let your success be your noise. Automation Act as if what you do makes a difference. It does. Containerization Event-driven Architecture Container Orchestration Replica Set
+Success doesn’t just find you. You have to go out and get it. Stay hungry, stay foolish. API Gateway Data Science React Content Delivery Network Security Framework Containerization JavaScript API Algorithm
