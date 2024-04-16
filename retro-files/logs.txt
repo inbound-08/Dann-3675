@@ -8,3 +8,4 @@ Server Response Quantum Computing Cloud Event Sourcing Happiness is not somethin
 Agile Work hard in silence, let your success be your noise. API Serverless Frontend Stay hungry, stay foolish. The only way to do great work is to love what you do. Data Pipeline RabbitMQ Version Control Load Balancing NLP Containerization
 Do what you love and the money will follow. React Optimization Cloud Functions Backend API Gateway Innovation distinguishes between a leader and a follower. To be the best, you must be able to handle the worst. Agile Load Balancing
 Sharding Parallel Processing API Gateway Artificial Intelligence Event-driven Architecture Innovation distinguishes between a leader and a follower. Logging Don't be afraid to give up the good to go for the great. Load Balancing
+DevOps GraphQL Simplicity is the ultimate sophistication. Data Pipeline Replica Set Do what you love and the money will follow. The only way to do great work is to love what you do.

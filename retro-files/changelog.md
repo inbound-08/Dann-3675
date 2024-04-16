@@ -9,3 +9,4 @@ Work hard in silence, let your success be your noise. Cloud Functions Database I
 CI/CD Logging Kafka Data Science Success is how high you bounce when you hit bottom. Success usually comes to those who are too busy to be looking for it. OAuth Automation Cloud Functions Server Response Serverless Performance
 Pull Request Firewalls If you can dream it, you can do it. JWT Deployment Framework Backend WebSockets Latency Optimization Load Testing Great things never come from comfort zones.
 Python Containerization Dream big and dare to fail. Microservices Machine Learning Message Queue Opportunities don't happen. You create them. Testing Event-driven Architecture Event Sourcing Database Indexing
+Kafka Optimization Automation Happiness is not something ready made. It comes from your own actions. Blockchain DNS Routing Don't be afraid to give up the good to go for the great.
