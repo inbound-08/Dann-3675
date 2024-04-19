@@ -7,3 +7,4 @@ Predictive Analytics Latency Optimization JavaScript Scalability Firewalls Rabbi
 Algorithm I find that the harder I work, the more luck I seem to have. Difficult roads often lead to beautiful destinations. React Microservices Logging Artificial Intelligence Cloud Functions Security
 Load Balancing Work hard in silence, let your success be your noise. Automation OAuth IoT Zero Downtime Deployment Innovation distinguishes between a leader and a follower. Lambda Functions Cloud NLP Frontend Machine Learning
 Act as if what you do makes a difference. It does. If you can dream it, you can do it. Data Pipeline GraphQL Scalability Code Review Automation Edge Computing
+DNS Routing If you can dream it, you can do it. Kubernetes Algorithm Neural Networks Deployment
