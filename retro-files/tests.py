@@ -9,3 +9,4 @@ Event-driven Architecture Dream big and dare to fail. Optimization Kafka Code Re
 DNS Routing Load Balancing Predictive Analytics GraphQL Quantum Computing Do what you love and the money will follow. OAuth Docker IoT
 JWT Version Control Data Pipeline Big Data Artificial Intelligence
 Kubernetes Pull Request Containerization OAuth RabbitMQ Load Testing Big Data Performance
+Distributed Systems Scalability Zero Downtime Deployment Big Data Monitoring Containerization I find that the harder I work, the more luck I seem to have. UX Optimization Artificial Intelligence Backend Great things never come from comfort zones. WebSockets Quantum Computing Optimization Edge Computing

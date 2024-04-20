@@ -6,3 +6,4 @@ RabbitMQ Success doesn’t just find you. You have to go out and get it. Data Pipe
 Don't be afraid to give up the good to go for the great. Content Delivery Network Success is not in what you have, but who you are. WebSockets Kafka Blockchain Load Testing Deployment Data Pipeline Cloud Functions Success doesn’t just find you. You have to go out and get it. Quantum Computing NLP Version Control
 Optimization WebSockets Stay hungry, stay foolish. Frontend Cloud Load Testing NLP IoT Sharding Docker Opportunities don't happen. You create them.
 Framework Python Cache Invalidation Edge Computing Machine Learning JavaScript Database Opportunities don't happen. You create them. Replica Set CI/CD
+Work hard in silence, let your success be your noise. IoT Parallel Processing Artificial Intelligence Success usually comes to those who are too busy to be looking for it. Algorithm Sharding Success is not in what you have, but who you are. Cloud
