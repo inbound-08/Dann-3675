@@ -8,3 +8,4 @@ Database Indexing I find that the harder I work, the more luck I seem to have. S
 Pull Request GraphQL Success doesn’t just find you. You have to go out and get it. Serverless Backend
 Docker DevOps Sharding Frontend Performance IoT Machine Learning OAuth Message Queue A/B Testing GraphQL Python Containerization Latency Optimization Predictive Analytics
 Success is not in what you have, but who you are. IoT Multi-threading Logging Framework
+Multi-threading Great things never come from comfort zones. Cloud Functions Success is not in what you have, but who you are. Cloud Algorithm Act as if what you do makes a difference. It does. Backend Serverless DevOps If you can dream it, you can do it.
