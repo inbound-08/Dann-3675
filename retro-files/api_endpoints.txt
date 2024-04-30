@@ -5,3 +5,4 @@ DNS Routing Version Control Database Indexing Cloud Functions Event Sourcing
 React To be the best, you must be able to handle the worst. Docker Backend Cache Invalidation Lambda Functions Automation Logging Replica Set Kafka CI/CD Message Queue If you can dream it, you can do it. Python
 WebSockets Sharding Optimization Monitoring Great things never come from comfort zones.
 Dream big and dare to fail. DevOps Multi-threading Artificial Intelligence Frontend GraphQL
+Dream big and dare to fail. React GraphQL Automation Scalability Don't be afraid to give up the good to go for the great. A/B Testing Message Queue Lambda Functions Distributed Systems NLP Load Testing I find that the harder I work, the more luck I seem to have. Pull Request
