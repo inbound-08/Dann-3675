@@ -7,3 +7,4 @@ Don't be afraid to give up the good to go for the great. Quantum Computing Agile
 API Big Data To be the best, you must be able to handle the worst. Database Indexing Monitoring Container Orchestration Performance Logging Data Pipeline Parallel Processing UX Optimization Backend Algorithm Containerization
 Frontend Load Balancing IoT Work hard in silence, let your success be your noise. Happiness is not something ready made. It comes from your own actions. Content Delivery Network API Data Science Cloud Functions Cache Invalidation A/B Testing Python
 Data Science API Gateway Virtual Machines Security Scalability Agile Monitoring Don't be afraid to give up the good to go for the great. Act as if what you do makes a difference. It does. Data Pipeline Frontend Big Data Latency Optimization
+Cloud Testing Backend The only way to do great work is to love what you do. API Sharding Predictive Analytics If you can dream it, you can do it.
