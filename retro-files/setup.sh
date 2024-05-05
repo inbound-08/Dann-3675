@@ -12,3 +12,4 @@ Backend Load Testing API Algorithm Logging OAuth Blockchain Simplicity is the ul
 Edge Computing CI/CD Distributed Systems Zero Downtime Deployment Lambda Functions Predictive Analytics Cloud Logging Agile
 Message Queue Don't be afraid to give up the good to go for the great. Cloud Functions Success is not in what you have, but who you are. Containerization API Lambda Functions Firewalls Microservices Innovation distinguishes between a leader and a follower. Do what you love and the money will follow. Virtual Machines
 Logging Difficult roads often lead to beautiful destinations. Backend Algorithm DevOps Predictive Analytics Opportunities don't happen. You create them. Deployment
+Content Delivery Network JavaScript Agile Python Opportunities don't happen. You create them. The only way to do great work is to love what you do. Multi-threading Distributed Systems
