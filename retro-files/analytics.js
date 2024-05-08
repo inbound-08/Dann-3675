@@ -6,3 +6,4 @@ Parallel Processing Distributed Systems Testing Firewalls A/B Testing Work hard 
 Code Review API Replica Set Success is not in what you have, but who you are. API Gateway
 Serverless Automation Firewalls Agile Testing Difficult roads often lead to beautiful destinations. Server Response Virtual Machines Docker
 DevOps Docker Containerization Deployment RabbitMQ Python
+I find that the harder I work, the more luck I seem to have. Replica Set Message Queue Blockchain Event-driven Architecture Stay hungry, stay foolish. Cloud
