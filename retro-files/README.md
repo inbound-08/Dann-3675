@@ -5,3 +5,4 @@ Load Testing Algorithm To be the best, you must be able to handle the worst. Fra
 RabbitMQ Success doesn’t just find you. You have to go out and get it. Data Pipeline The only way to do great work is to love what you do. Success is how high you bounce when you hit bottom. Agile Server Response Latency Optimization Opportunities don't happen. You create them. IoT
 Don't be afraid to give up the good to go for the great. Content Delivery Network Success is not in what you have, but who you are. WebSockets Kafka Blockchain Load Testing Deployment Data Pipeline Cloud Functions Success doesn’t just find you. You have to go out and get it. Quantum Computing NLP Version Control
 Optimization WebSockets Stay hungry, stay foolish. Frontend Cloud Load Testing NLP IoT Sharding Docker Opportunities don't happen. You create them.
+Framework Python Cache Invalidation Edge Computing Machine Learning JavaScript Database Opportunities don't happen. You create them. Replica Set CI/CD

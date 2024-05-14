@@ -4,3 +4,4 @@ Pull Request Logging Success usually comes to those who are too busy to be looki
 DNS Routing Version Control Database Indexing Cloud Functions Event Sourcing
 React To be the best, you must be able to handle the worst. Docker Backend Cache Invalidation Lambda Functions Automation Logging Replica Set Kafka CI/CD Message Queue If you can dream it, you can do it. Python
 WebSockets Sharding Optimization Monitoring Great things never come from comfort zones.
+Dream big and dare to fail. DevOps Multi-threading Artificial Intelligence Frontend GraphQL
