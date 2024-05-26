@@ -11,3 +11,4 @@ Innovation distinguishes between a leader and a follower. Distributed Systems Lo
 Frontend Simplicity is the ultimate sophistication. UX Optimization Version Control Deployment Multi-threading Cloud Replica Set RabbitMQ
 Lambda Functions CI/CD Agile Automation Do what you love and the money will follow. RabbitMQ Testing Innovation distinguishes between a leader and a follower. Cache Invalidation JavaScript Docker UX Optimization
 WebSockets Python Database Indexing Scalability DevOps Testing Parallel Processing
+Performance Backend Database Indexing I find that the harder I work, the more luck I seem to have. Stay hungry, stay foolish. Automation Data Science Success doesn’t just find you. You have to go out and get it. Zero Downtime Deployment React
