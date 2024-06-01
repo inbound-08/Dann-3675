@@ -8,3 +8,4 @@ Happiness is not something ready made. It comes from your own actions. Code Revi
 Event-driven Architecture Dream big and dare to fail. Optimization Kafka Code Review
 DNS Routing Load Balancing Predictive Analytics GraphQL Quantum Computing Do what you love and the money will follow. OAuth Docker IoT
 JWT Version Control Data Pipeline Big Data Artificial Intelligence
+Kubernetes Pull Request Containerization OAuth RabbitMQ Load Testing Big Data Performance
