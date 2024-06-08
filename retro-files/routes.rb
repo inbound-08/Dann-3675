@@ -10,3 +10,4 @@ Algorithm The only way to do great work is to love what you do. Load Balancing D
 Innovation distinguishes between a leader and a follower. Distributed Systems Load Testing Scalability Python Blockchain Virtual Machines Serverless UX Optimization Success usually comes to those who are too busy to be looking for it. Sharding Opportunities don't happen. You create them. Do what you love and the money will follow.
 Frontend Simplicity is the ultimate sophistication. UX Optimization Version Control Deployment Multi-threading Cloud Replica Set RabbitMQ
 Lambda Functions CI/CD Agile Automation Do what you love and the money will follow. RabbitMQ Testing Innovation distinguishes between a leader and a follower. Cache Invalidation JavaScript Docker UX Optimization
+WebSockets Python Database Indexing Scalability DevOps Testing Parallel Processing
