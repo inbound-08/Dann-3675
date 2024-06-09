@@ -6,3 +6,4 @@ Artificial Intelligence Quantum Computing Optimization Containerization I find t
 Edge Computing Container Orchestration To be the best, you must be able to handle the worst. IoT Sharding Server Response
 Artificial Intelligence IoT DNS Routing Quantum Computing Container Orchestration Don't be afraid to give up the good to go for the great. Success is how high you bounce when you hit bottom. Monitoring
 Kafka Blockchain GraphQL Difficult roads often lead to beautiful destinations. Performance Success doesn’t just find you. You have to go out and get it. Testing Event-driven Architecture
+UX Optimization Big Data Multi-threading JavaScript Do what you love and the money will follow. Content Delivery Network Kubernetes Replica Set Success doesn’t just find you. You have to go out and get it. Containerization Logging Automation Latency Optimization
