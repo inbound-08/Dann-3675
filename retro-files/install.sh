@@ -6,3 +6,4 @@ Artificial Intelligence WebSockets Great things never come from comfort zones. I
 Don't be afraid to give up the good to go for the great. Quantum Computing Agile Firewalls Sharding Latency Optimization
 API Big Data To be the best, you must be able to handle the worst. Database Indexing Monitoring Container Orchestration Performance Logging Data Pipeline Parallel Processing UX Optimization Backend Algorithm Containerization
 Frontend Load Balancing IoT Work hard in silence, let your success be your noise. Happiness is not something ready made. It comes from your own actions. Content Delivery Network API Data Science Cloud Functions Cache Invalidation A/B Testing Python
+Data Science API Gateway Virtual Machines Security Scalability Agile Monitoring Don't be afraid to give up the good to go for the great. Act as if what you do makes a difference. It does. Data Pipeline Frontend Big Data Latency Optimization
