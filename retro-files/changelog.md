@@ -8,3 +8,4 @@ Message Queue Sharding Serverless Cloud Functions Cloud Artificial Intelligence 
 Work hard in silence, let your success be your noise. Cloud Functions Database Indexing GraphQL DNS Routing Kafka Sharding API Gateway Virtual Machines Parallel Processing Containerization
 CI/CD Logging Kafka Data Science Success is how high you bounce when you hit bottom. Success usually comes to those who are too busy to be looking for it. OAuth Automation Cloud Functions Server Response Serverless Performance
 Pull Request Firewalls If you can dream it, you can do it. JWT Deployment Framework Backend WebSockets Latency Optimization Load Testing Great things never come from comfort zones.
+Python Containerization Dream big and dare to fail. Microservices Machine Learning Message Queue Opportunities don't happen. You create them. Testing Event-driven Architecture Event Sourcing Database Indexing
