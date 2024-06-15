@@ -5,3 +5,4 @@ Event Sourcing UX Optimization Python Kafka Success usually comes to those who a
 Artificial Intelligence Quantum Computing Optimization Containerization I find that the harder I work, the more luck I seem to have.
 Edge Computing Container Orchestration To be the best, you must be able to handle the worst. IoT Sharding Server Response
 Artificial Intelligence IoT DNS Routing Quantum Computing Container Orchestration Don't be afraid to give up the good to go for the great. Success is how high you bounce when you hit bottom. Monitoring
+Kafka Blockchain GraphQL Difficult roads often lead to beautiful destinations. Performance Success doesn’t just find you. You have to go out and get it. Testing Event-driven Architecture
