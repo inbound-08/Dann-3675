@@ -6,3 +6,4 @@ Success usually comes to those who are too busy to be looking for it. Load Testi
 React Parallel Processing Don't be afraid to give up the good to go for the great. Code Review Algorithm Firewalls DevOps I find that the harder I work, the more luck I seem to have. Database Lambda Functions API Gateway Happiness is not something ready made. It comes from your own actions.
 Success usually comes to those who are too busy to be looking for it. Data Pipeline Performance Blockchain NLP Server Response Deployment
 Database WebSockets Distributed Systems Performance Sharding React Do what you love and the money will follow. Kafka A/B Testing Success is not in what you have, but who you are. Stay hungry, stay foolish.
+Pull Request Cloud Big Data Security To be the best, you must be able to handle the worst. Scalability JWT
