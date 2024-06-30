@@ -9,3 +9,4 @@ Containerization Predictive Analytics OAuth Success is not in what you have, but
 Happiness is not something ready made. It comes from your own actions. Virtual Machines UX Optimization Simplicity is the ultimate sophistication. Load Balancing Logging Scalability JavaScript Replica Set Security Frontend Docker
 Machine Learning GraphQL Python Event Sourcing Virtual Machines JavaScript Lambda Functions Innovation distinguishes between a leader and a follower. Dream big and dare to fail. WebSockets Artificial Intelligence I find that the harder I work, the more luck I seem to have.
 Stay hungry, stay foolish. Containerization GraphQL Multi-threading Great things never come from comfort zones. Database Edge Computing Predictive Analytics Lambda Functions Backend Act as if what you do makes a difference. It does. Database Indexing Data Science Kafka DNS Routing
+RabbitMQ Code Review Neural Networks Latency Optimization Edge Computing Event Sourcing
