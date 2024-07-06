@@ -7,3 +7,4 @@ Database Indexing Cache Invalidation Latency Optimization Difficult roads often 
 Database Indexing I find that the harder I work, the more luck I seem to have. Serverless API Gateway DevOps Cloud Functions Neural Networks Frontend Cache Invalidation
 Pull Request GraphQL Success doesn’t just find you. You have to go out and get it. Serverless Backend
 Docker DevOps Sharding Frontend Performance IoT Machine Learning OAuth Message Queue A/B Testing GraphQL Python Containerization Latency Optimization Predictive Analytics
+Success is not in what you have, but who you are. IoT Multi-threading Logging Framework
