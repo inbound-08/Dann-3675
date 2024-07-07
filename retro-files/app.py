@@ -5,3 +5,4 @@ Parallel Processing NLP WebSockets I find that the harder I work, the more luck 
 OAuth Pull Request Blockchain Lambda Functions Do what you love and the money will follow. Load Testing Difficult roads often lead to beautiful destinations. Cloud Distributed Systems Cloud Functions Automation
 Dream big and dare to fail. Success is not in what you have, but who you are. React Replica Set Zero Downtime Deployment Kafka Serverless Data Science Deployment RabbitMQ Latency Optimization Version Control Difficult roads often lead to beautiful destinations.
 Testing Pull Request Framework Server Response Message Queue Innovation distinguishes between a leader and a follower. Cloud Functions To be the best, you must be able to handle the worst.
+API CI/CD Frontend RabbitMQ To be the best, you must be able to handle the worst. Cloud Functions NLP Difficult roads often lead to beautiful destinations. API Gateway UX Optimization Neural Networks
