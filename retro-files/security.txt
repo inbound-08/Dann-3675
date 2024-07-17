@@ -5,3 +5,4 @@ Serverless Scalability Testing A/B Testing Logging API Stay hungry, stay foolish
 Zero Downtime Deployment Sharding Parallel Processing Data Science Cloud Functions Container Orchestration Agile JWT NLP Success is how high you bounce when you hit bottom. Simplicity is the ultimate sophistication. Algorithm Lambda Functions Kubernetes
 Docker Security Replica Set Event-driven Architecture Event Sourcing Server Response Optimization Code Review
 Database Artificial Intelligence Scalability Difficult roads often lead to beautiful destinations. JavaScript Data Pipeline A/B Testing JWT Success is not in what you have, but who you are. Great things never come from comfort zones. DNS Routing
+Kubernetes Lambda Functions Agile A/B Testing Monitoring Logging Scalability Stay hungry, stay foolish. Success doesn’t just find you. You have to go out and get it. Success is how high you bounce when you hit bottom. Frontend DevOps Version Control Cache Invalidation

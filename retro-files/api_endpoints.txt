@@ -3,3 +3,4 @@ Firewalls Cloud I find that the harder I work, the more luck I seem to have. DNS
 Pull Request Logging Success usually comes to those who are too busy to be looking for it. Success is how high you bounce when you hit bottom. Content Delivery Network DNS Routing Distributed Systems Predictive Analytics Success doesn’t just find you. You have to go out and get it. GraphQL Firewalls Version Control Framework React
 DNS Routing Version Control Database Indexing Cloud Functions Event Sourcing
 React To be the best, you must be able to handle the worst. Docker Backend Cache Invalidation Lambda Functions Automation Logging Replica Set Kafka CI/CD Message Queue If you can dream it, you can do it. Python
+WebSockets Sharding Optimization Monitoring Great things never come from comfort zones.
