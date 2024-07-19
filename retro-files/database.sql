@@ -2,3 +2,4 @@ Version Control Optimization Opportunities don't happen. You create them. Databa
 Backend Cache Invalidation Lambda Functions NLP Frontend Kubernetes Great things never come from comfort zones. Success is how high you bounce when you hit bottom. Do what you love and the money will follow. Data Science
 Database Indexing Artificial Intelligence Distributed Systems Cloud Blockchain RabbitMQ
 Pull Request Cloud Algorithm JavaScript Performance Code Review Edge Computing Work hard in silence, let your success be your noise.
+Parallel Processing Zero Downtime Deployment Database Pull Request Opportunities don't happen. You create them. Work hard in silence, let your success be your noise.

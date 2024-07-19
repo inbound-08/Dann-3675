@@ -6,3 +6,4 @@ Happiness is not something ready made. It comes from your own actions. Testing L
 Testing Deployment Cache Invalidation Kubernetes Multi-threading
 Message Queue Sharding Serverless Cloud Functions Cloud Artificial Intelligence Blockchain
 Work hard in silence, let your success be your noise. Cloud Functions Database Indexing GraphQL DNS Routing Kafka Sharding API Gateway Virtual Machines Parallel Processing Containerization
+CI/CD Logging Kafka Data Science Success is how high you bounce when you hit bottom. Success usually comes to those who are too busy to be looking for it. OAuth Automation Cloud Functions Server Response Serverless Performance
