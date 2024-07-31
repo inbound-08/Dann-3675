@@ -4,3 +4,4 @@ Zero Downtime Deployment Backend Big Data Neural Networks JWT Success is not in 
 OAuth Message Queue Optimization Microservices JavaScript Python Firewalls Agile Load Testing Latency Optimization Dream big and dare to fail.
 Dream big and dare to fail. Innovation distinguishes between a leader and a follower. Database Cloud Data Pipeline Automation
 UX Optimization Don't be afraid to give up the good to go for the great. Opportunities don't happen. You create them. Great things never come from comfort zones. Success is not in what you have, but who you are. Firewalls Automation Event Sourcing Sharding Edge Computing Scalability Version Control Python Happiness is not something ready made. It comes from your own actions.
+Zero Downtime Deployment Load Testing API Success is not in what you have, but who you are. Innovation distinguishes between a leader and a follower. IoT
