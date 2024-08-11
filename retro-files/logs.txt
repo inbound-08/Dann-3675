@@ -3,3 +3,4 @@ Edge Computing Zero Downtime Deployment Machine Learning Dream big and dare to f
 Event Sourcing Simplicity is the ultimate sophistication. Replica Set Parallel Processing Algorithm Version Control Data Pipeline WebSockets Message Queue Security
 Sharding Latency Optimization Neural Networks I find that the harder I work, the more luck I seem to have. Data Science Performance Monitoring RabbitMQ Multi-threading Kafka
 Cloud Opportunities don't happen. You create them. Cloud Functions Monitoring NLP Testing A/B Testing Success is how high you bounce when you hit bottom. Neural Networks Kubernetes Version Control IoT Pull Request
+Innovation distinguishes between a leader and a follower. Do what you love and the money will follow. Lambda Functions Version Control API Gateway Cloud To be the best, you must be able to handle the worst. Dream big and dare to fail. Predictive Analytics Backend Code Review
