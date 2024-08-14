@@ -5,3 +5,4 @@ Virtual Machines Great things never come from comfort zones. Opportunities don't
 Happiness is not something ready made. It comes from your own actions. Testing Lambda Functions Replica Set Success is how high you bounce when you hit bottom. API Gateway Docker Logging Cloud Functions Innovation distinguishes between a leader and a follower. To be the best, you must be able to handle the worst. Big Data Act as if what you do makes a difference. It does.
 Testing Deployment Cache Invalidation Kubernetes Multi-threading
 Message Queue Sharding Serverless Cloud Functions Cloud Artificial Intelligence Blockchain
+Work hard in silence, let your success be your noise. Cloud Functions Database Indexing GraphQL DNS Routing Kafka Sharding API Gateway Virtual Machines Parallel Processing Containerization
