@@ -4,3 +4,4 @@ Big Data Testing Machine Learning Happiness is not something ready made. It come
 A/B Testing Automation Pull Request Database Dream big and dare to fail.
 WebSockets Don't be afraid to give up the good to go for the great. JWT GraphQL DNS Routing Load Balancing Predictive Analytics Edge Computing Optimization Cache Invalidation Virtual Machines Server Response Docker Pull Request Microservices
 Database Container Orchestration Happiness is not something ready made. It comes from your own actions. UX Optimization Multi-threading Act as if what you do makes a difference. It does. A/B Testing Server Response Success doesn’t just find you. You have to go out and get it.
+Backend Cloud Functions Happiness is not something ready made. It comes from your own actions. Event Sourcing Scalability Opportunities don't happen. You create them. Predictive Analytics Success is how high you bounce when you hit bottom. Server Response JWT Version Control Deployment DNS Routing
