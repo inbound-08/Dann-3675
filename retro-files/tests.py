@@ -6,3 +6,4 @@ Kafka CI/CD Simplicity is the ultimate sophistication. Innovation distinguishes 
 Containerization Data Science Zero Downtime Deployment A/B Testing RabbitMQ Load Testing
 Happiness is not something ready made. It comes from your own actions. Code Review Stay hungry, stay foolish. Python GraphQL WebSockets Backend Neural Networks
 Event-driven Architecture Dream big and dare to fail. Optimization Kafka Code Review
+DNS Routing Load Balancing Predictive Analytics GraphQL Quantum Computing Do what you love and the money will follow. OAuth Docker IoT
