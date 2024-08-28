@@ -6,3 +6,4 @@ Agile Predictive Analytics Code Review Docker Backend DNS Routing Innovation dis
 Database Indexing Cache Invalidation Latency Optimization Difficult roads often lead to beautiful destinations. Serverless Simplicity is the ultimate sophistication. Success usually comes to those who are too busy to be looking for it. Predictive Analytics Agile Cloud Functions
 Database Indexing I find that the harder I work, the more luck I seem to have. Serverless API Gateway DevOps Cloud Functions Neural Networks Frontend Cache Invalidation
 Pull Request GraphQL Success doesn’t just find you. You have to go out and get it. Serverless Backend
+Docker DevOps Sharding Frontend Performance IoT Machine Learning OAuth Message Queue A/B Testing GraphQL Python Containerization Latency Optimization Predictive Analytics

@@ -5,3 +5,4 @@ Load Balancing Neural Networks Message Queue JWT CI/CD Success usually comes to 
 Kafka CI/CD Simplicity is the ultimate sophistication. Innovation distinguishes between a leader and a follower. Backend Big Data Event Sourcing Algorithm Zero Downtime Deployment Message Queue Quantum Computing
 Containerization Data Science Zero Downtime Deployment A/B Testing RabbitMQ Load Testing
 Happiness is not something ready made. It comes from your own actions. Code Review Stay hungry, stay foolish. Python GraphQL WebSockets Backend Neural Networks
+Event-driven Architecture Dream big and dare to fail. Optimization Kafka Code Review
