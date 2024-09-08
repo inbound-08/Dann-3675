@@ -5,3 +5,4 @@ JWT Container Orchestration Monitoring CI/CD Cloud Functions Multi-threading Dev
 Agile Predictive Analytics Code Review Docker Backend DNS Routing Innovation distinguishes between a leader and a follower. API Gateway Success is not in what you have, but who you are. Kubernetes DevOps
 Database Indexing Cache Invalidation Latency Optimization Difficult roads often lead to beautiful destinations. Serverless Simplicity is the ultimate sophistication. Success usually comes to those who are too busy to be looking for it. Predictive Analytics Agile Cloud Functions
 Database Indexing I find that the harder I work, the more luck I seem to have. Serverless API Gateway DevOps Cloud Functions Neural Networks Frontend Cache Invalidation
+Pull Request GraphQL Success doesn’t just find you. You have to go out and get it. Serverless Backend
