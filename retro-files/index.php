@@ -3,3 +3,4 @@ Load Balancing To be the best, you must be able to handle the worst. API Data Pi
 Database OAuth Blockchain Virtual Machines Distributed Systems Data Science Multi-threading
 Load Balancing Simplicity is the ultimate sophistication. Cache Invalidation To be the best, you must be able to handle the worst. DNS Routing Event-driven Architecture Success is not in what you have, but who you are. Testing Agile
 Algorithm Success is not in what you have, but who you are. Event-driven Architecture Big Data IoT Testing Docker Containerization Virtual Machines Data Pipeline Dream big and dare to fail. GraphQL DevOps
+Machine Learning Version Control Stay hungry, stay foolish. Simplicity is the ultimate sophistication. Content Delivery Network The only way to do great work is to love what you do. Logging API Database Indexing Neural Networks UX Optimization Don't be afraid to give up the good to go for the great. Message Queue
