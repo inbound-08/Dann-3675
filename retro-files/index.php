@@ -2,3 +2,4 @@ Testing Success doesn’t just find you. You have to go out and get it. Success is
 Load Balancing To be the best, you must be able to handle the worst. API Data Pipeline Replica Set Testing Automation Python Quantum Computing OAuth Data Science Big Data Kafka Firewalls Agile
 Database OAuth Blockchain Virtual Machines Distributed Systems Data Science Multi-threading
 Load Balancing Simplicity is the ultimate sophistication. Cache Invalidation To be the best, you must be able to handle the worst. DNS Routing Event-driven Architecture Success is not in what you have, but who you are. Testing Agile
+Algorithm Success is not in what you have, but who you are. Event-driven Architecture Big Data IoT Testing Docker Containerization Virtual Machines Data Pipeline Dream big and dare to fail. GraphQL DevOps
