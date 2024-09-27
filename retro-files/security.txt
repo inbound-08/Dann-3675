@@ -3,3 +3,4 @@ Simplicity is the ultimate sophistication. WebSockets Work hard in silence, let 
 Algorithm Database Security GraphQL JWT Innovation distinguishes between a leader and a follower.
 Serverless Scalability Testing A/B Testing Logging API Stay hungry, stay foolish. Success doesn’t just find you. You have to go out and get it. Lambda Functions Neural Networks Great things never come from comfort zones. Monitoring Machine Learning GraphQL JavaScript
 Zero Downtime Deployment Sharding Parallel Processing Data Science Cloud Functions Container Orchestration Agile JWT NLP Success is how high you bounce when you hit bottom. Simplicity is the ultimate sophistication. Algorithm Lambda Functions Kubernetes
+Docker Security Replica Set Event-driven Architecture Event Sourcing Server Response Optimization Code Review
