@@ -2,3 +2,4 @@ Innovation distinguishes between a leader and a follower. Parallel Processing Fr
 Edge Computing Zero Downtime Deployment Machine Learning Dream big and dare to fail. Stay hungry, stay foolish. RabbitMQ Data Pipeline Opportunities don't happen. You create them. Security Performance Container Orchestration Docker Serverless
 Event Sourcing Simplicity is the ultimate sophistication. Replica Set Parallel Processing Algorithm Version Control Data Pipeline WebSockets Message Queue Security
 Sharding Latency Optimization Neural Networks I find that the harder I work, the more luck I seem to have. Data Science Performance Monitoring RabbitMQ Multi-threading Kafka
+Cloud Opportunities don't happen. You create them. Cloud Functions Monitoring NLP Testing A/B Testing Success is how high you bounce when you hit bottom. Neural Networks Kubernetes Version Control IoT Pull Request
