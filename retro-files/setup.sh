@@ -2,3 +2,4 @@ Do what you love and the money will follow. Algorithm Load Balancing To be the b
 JavaScript Load Balancing Success is how high you bounce when you hit bottom. Parallel Processing API Sharding DNS Routing Database Security Backend Automation Scalability
 Big Data Testing Machine Learning Happiness is not something ready made. It comes from your own actions. Backend Edge Computing Load Testing Firewalls Zero Downtime Deployment IoT Replica Set Python
 A/B Testing Automation Pull Request Database Dream big and dare to fail.
+WebSockets Don't be afraid to give up the good to go for the great. JWT GraphQL DNS Routing Load Balancing Predictive Analytics Edge Computing Optimization Cache Invalidation Virtual Machines Server Response Docker Pull Request Microservices
