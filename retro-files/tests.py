@@ -4,3 +4,4 @@ Virtual Machines The only way to do great work is to love what you do. Edge Comp
 Load Balancing Neural Networks Message Queue JWT CI/CD Success usually comes to those who are too busy to be looking for it. If you can dream it, you can do it. Code Review Framework Multi-threading
 Kafka CI/CD Simplicity is the ultimate sophistication. Innovation distinguishes between a leader and a follower. Backend Big Data Event Sourcing Algorithm Zero Downtime Deployment Message Queue Quantum Computing
 Containerization Data Science Zero Downtime Deployment A/B Testing RabbitMQ Load Testing
+Happiness is not something ready made. It comes from your own actions. Code Review Stay hungry, stay foolish. Python GraphQL WebSockets Backend Neural Networks
