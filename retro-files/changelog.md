@@ -1,3 +1,4 @@
 Difficult roads often lead to beautiful destinations. Lambda Functions JWT Great things never come from comfort zones. Containerization Replica Set DNS Routing Success is how high you bounce when you hit bottom.
 Optimization Database Dream big and dare to fail. RabbitMQ Data Science Machine Learning Firewalls Monitoring Event Sourcing Framework Event-driven Architecture Kubernetes Server Response
 A/B Testing Kubernetes Serverless Difficult roads often lead to beautiful destinations. Load Testing Logging Act as if what you do makes a difference. It does. Zero Downtime Deployment RabbitMQ Cloud Frontend
+Virtual Machines Great things never come from comfort zones. Opportunities don't happen. You create them. Neural Networks Docker Blockchain CI/CD Firewalls Artificial Intelligence Zero Downtime Deployment
