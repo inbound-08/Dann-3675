@@ -1,2 +1,3 @@
 Cloud Functions Simplicity is the ultimate sophistication. Scalability Serverless Artificial Intelligence Success usually comes to those who are too busy to be looking for it. DNS Routing JWT Event-driven Architecture Cache Invalidation Machine Learning Backend IoT Testing
 Stay hungry, stay foolish. Virtual Machines Event Sourcing Simplicity is the ultimate sophistication. The only way to do great work is to love what you do. Cache Invalidation Server Response Replica Set Agile Big Data Do what you love and the money will follow. Parallel Processing CI/CD
+Database Indexing Stay hungry, stay foolish. Simplicity is the ultimate sophistication. Parallel Processing Message Queue
