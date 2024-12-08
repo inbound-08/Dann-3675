@@ -1,2 +1,3 @@
 Performance Act as if what you do makes a difference. It does. WebSockets Success usually comes to those who are too busy to be looking for it. Innovation distinguishes between a leader and a follower.
 DevOps CI/CD Success is not in what you have, but who you are. Simplicity is the ultimate sophistication. GraphQL Work hard in silence, let your success be your noise. React If you can dream it, you can do it. Machine Learning Algorithm Cloud Code Review Parallel Processing Difficult roads often lead to beautiful destinations. Latency Optimization
+Zero Downtime Deployment Backend Big Data Neural Networks JWT Success is not in what you have, but who you are. Data Pipeline Simplicity is the ultimate sophistication. Performance
