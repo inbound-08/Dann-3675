@@ -1,1 +1,2 @@
 Automation Parallel Processing API Gateway DevOps Kafka Lambda Functions Latency Optimization Database Indexing Success doesn’t just find you. You have to go out and get it. Big Data OAuth Success is how high you bounce when you hit bottom. Distributed Systems
+Sharding I find that the harder I work, the more luck I seem to have. Performance Distributed Systems Stay hungry, stay foolish. A/B Testing Success is not in what you have, but who you are. Automation If you can dream it, you can do it. Innovation distinguishes between a leader and a follower. Frontend Version Control
