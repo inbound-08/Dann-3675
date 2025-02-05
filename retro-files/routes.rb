@@ -1,0 +1,1 @@
+Cloud Functions Simplicity is the ultimate sophistication. Scalability Serverless Artificial Intelligence Success usually comes to those who are too busy to be looking for it. DNS Routing JWT Event-driven Architecture Cache Invalidation Machine Learning Backend IoT Testing
